@@ -19,14 +19,10 @@ The Cloud Resume Challenge walks you through building a **personal resume websit
 
 ---
 
-## 📄 Live Demo
+## Live Demo
 
-👉 [Live Resume Website](https://suparnadebnath.co.uk/)  
-👉 [Frontend GitHub Repo](https://github.com/suparnad/aws-cloud-resume-challenge/)  
-👉 [Blog Post]([https://your-blog-post-link.com](https://medium.com/me/stats/post/4c2011fddd99))
+[Live Resume Website](https://suparnadebnath.co.uk/)  
+[Frontend GitHub Repo](https://github.com/suparnad/aws-cloud-resume-challenge/)  
+[Blog Post](https://medium.com/me/stats/post/4c2011fddd99/)
 
----
-
-## Architecture Overview
-(https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iYFfrjQ9s9FUN9NVkmk9rQ.png)
 
