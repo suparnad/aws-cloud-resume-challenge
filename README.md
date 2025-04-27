@@ -1,7 +1,5 @@
 # aws-cloud-resume-challenge
 
-# Cloud Resume Challenge – AWS Edition
-
 This project is part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) – a hands-on challenge designed by Forrest Brazeal to showcase real-world cloud engineering skills using AWS services.
 
 ---
